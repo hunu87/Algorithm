@@ -1,5 +1,4 @@
 import java.util.HashMap;
-import java.util.stream.Collector;
 import java.util.stream.Stream;
 
 /* 배열에서 중복 데이터 찾기 */
